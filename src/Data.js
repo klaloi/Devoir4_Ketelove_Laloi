@@ -1,0 +1,58 @@
+let shopItemsData = [
+  {
+    id: "jfhgbvnscs",
+    name: "Délice Chocolat-Passion",
+    price: 10,
+    desc: "Un somptueux entremets à étages, mêlant chocolat noir fondant, mousse passion et fruits frais. Le tout nappé d’un glaçage brillant irrésistible.",
+    img: "images/Patisserie6.jpeg",
+  },
+  {
+    id: "ioytrhndcv",
+    name: "Évasion Gourmande",
+    price: 21,
+    desc: "Un dessert de rêve alliant moelleux au cacao, mousse vanille, et caramel onctueux, orné de fruits rouges et d’un glaçage miroir.",
+    img: "images/Patisserie2.jpeg",
+  },
+  {
+    id: "wuefbncxbsn",
+    name: "Éclat de Caramel et Vanille",
+    price: 25,
+    desc: "Un classique revisité aux couches généreuses de crème vanillée, une douceur ",
+    img: "images/Patisserie8.jpeg",
+  },
+  {
+    id: "thyfhcbcv",
+    name: "Sérénade Fruitée",
+    price: 30,
+    desc: "Un dessert coloré et rafraîchissant avec un cœur fruité, entouré d’un biscuit léger et d’un nappage fruité éclatant.",
+    img: "images/Patisserie4.jpeg",
+  },
+  {
+    id: "thyfhcbcw",
+    name: "Biscuits Cœurs de Fête",
+    price: 40,
+    desc: "Assortiment de biscuits sablés en forme de cœur, décorés de sucre coloré et de glaçage rose ou blanc, parfaits pour offrir ou partager.",
+    img: "images/Patisserie5.jpeg",
+  },
+  {
+    id: "thyfhcbci",
+    name: "Mont Blanc Coco-Choco",
+    price: 27,
+    desc: "Gâteau moelleux au chocolat noir, mousse coco, nappé d’un glaçage miroir brillant.",
+    img: "images/Patisserie1.jpeg",
+  },
+  {
+    id: "thyfhcbch",
+    name: "Crêpe Mille-Couches",
+    price: 15,
+    desc: "Crêpe roulée en spirale avec couches de crème pâtissière vanille et chocolat.",
+    img: "images/Patisserie7.jpeg",
+  },
+  {
+    id: "thyfhcbca",
+    name: "Gâteau Exotique Mangue-Passion",
+    price: 33,
+    desc: "Génoise à la vanille, mousse mangue, cœur passion, et déco fruitée colorée.",
+    img: "images/Patisserie3.jpeg",
+  },
+];
